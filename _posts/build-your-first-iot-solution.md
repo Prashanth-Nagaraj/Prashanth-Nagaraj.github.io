@@ -69,6 +69,8 @@ Install Windows IoT project templates from visual studio market place. Launch Vi
 
 ![loading image...]({{site.baseurl}}/img/1/add-windows-iot-templates.jpg)
 
+Go to File | New | Project | Select Background Application (IoT) under Windows IoT Core template.    
+
 
 
 

@@ -103,7 +103,7 @@ namespace ElectricityUsageMonitor
         private BackgroundTaskDeferral _deferral;
         private SimulatedElectricityUsageProvider _electricityUsageProvider;
         private DeviceClient _deviceClient;
-        private const string connectionString = “<replace>”;
+        private const string connectionString = "<replace>";
         private const int maxReadings = 5;
 
         public void Run(IBackgroundTaskInstance taskInstance)

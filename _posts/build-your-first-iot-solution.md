@@ -83,6 +83,10 @@ You need Microsoft.Devices.Azure.Client NuGet package to interact with Azure IoT
 
 # **Let’s look at Some Code**
 
+In this example we will use a simulated electricity usage provider to collect electricity usage data, which we are going to send to Azure IoT Hub. But in real world there will be actual sensors that collect data.    
+
+
+
 
 
 

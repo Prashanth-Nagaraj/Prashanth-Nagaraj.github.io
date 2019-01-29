@@ -61,6 +61,8 @@ And leave rest of the options as it is. Click Save.
 
 After device is created, you can see the list of devices you created in ‘IoT Devices’ section. Click on the device which you just created and copy the Connection string (primary key) and store it. You need this later to connect from code to Azure IoT Hub.
 
+# **Create UWP application**
+
 
 
 

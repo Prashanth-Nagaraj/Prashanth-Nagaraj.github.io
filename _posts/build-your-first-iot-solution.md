@@ -15,11 +15,11 @@ The source code used in this tutorial can be found at my [GitHub](https://github
 
 # **Prerequisites**
 
--Raspberry Pi Model 2/3B (You can buy from official site [here](https://www.raspberrypi.org/))
--SD card suitable for your Pi model.
--Visual Studio 2017 with Universal Windows Platform tools (You can download free community edition [here](https://visualstudio.microsoft.com/downloads/))
--Enable Windows Developer Mode in your Desktop. Follow [here](https://docs.microsoft.com/en-us/windows/uwp/get-started/enable-your-device-for-development))
--Azure subscription (You can get free subscription [here](https://azure.microsoft.com/en-gb/free/))
+- Raspberry Pi Model 2/3B (You can buy from official site [here](https://www.raspberrypi.org/))
+- SD card suitable for your Pi model.
+- Visual Studio 2017 with Universal Windows Platform tools (You can download free community edition [here](https://visualstudio.microsoft.com/downloads/))
+- Enable Windows Developer Mode in your Desktop. Follow [here](https://docs.microsoft.com/en-us/windows/uwp/get-started/enable-your-device-for-development))
+- Azure subscription (You can get free subscription [here](https://azure.microsoft.com/en-gb/free/))
 
 # **Set up Raspberry Pi**
 

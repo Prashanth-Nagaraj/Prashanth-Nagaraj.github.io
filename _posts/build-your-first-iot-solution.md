@@ -56,3 +56,5 @@ Select All resources | electricity-usage-iot-hub resource | IoT devices | Click 
 ![loading image...]({{site.baseurl}}/img/1/add-iot-hub-device.jpg)
 
 
+
+

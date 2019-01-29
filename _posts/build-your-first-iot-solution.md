@@ -42,3 +42,5 @@ Go to [Azure Portal](https://portal.azure.com/) | Create a resource | Internet o
 **Resource Group** 	– Create a new resource group and name it “electricity-usage-resource-group”    
 **Region** 			– Choose nearest region to you    
 **IoT Hub Name** 	– Enter “electricity-usage-iot-hub” or choose the name you like     
+
+

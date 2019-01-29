@@ -71,7 +71,7 @@ Install Windows IoT project templates from visual studio market place. Launch Vi
 
 Go to File | New | Project | Select Background Application (IoT) under Windows IoT Core template.    
 
-
+Enter “ElectricityUsageMonitor” for name and click OK. 
 
 
 

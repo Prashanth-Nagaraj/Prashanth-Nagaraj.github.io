@@ -47,3 +47,5 @@ Go to [Azure Portal](https://portal.azure.com/) | Create a resource | Internet o
 
 Click Next | Select “F1: Free Tier” under Pricing and scale tier and leave rest as it is | Review and Create.    
 
+![loading image...]({{site.baseurl}}/img/1/create-iot-hub-subscription.jpg)
+

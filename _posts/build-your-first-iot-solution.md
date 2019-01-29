@@ -24,9 +24,9 @@ The source code used in this tutorial can be found at my [GitHub](https://github
 # **Set up Raspberry Pi**
 
 Follow the steps given [here](https://docs.microsoft.com/en-us/windows/iot-core/tutorials/quickstarter/devicesetup) and
--Install Windows IoT Core on to your SD card. 
--Once the OS is flashed on to SD card insert this SD card in to your Raspberry PI.
--Connect your Raspberry Pi to the network. Make sure your laptop and raspberry pi are connected to same network.
+- Install Windows IoT Core on to your SD card. 
+- Once the OS is flashed on to SD card insert this SD card in to your Raspberry PI.
+- Connect your Raspberry Pi to the network. Make sure your laptop and raspberry pi are connected to same network.
 
 ![Raspberry Pi Connection]({{site.baseurl}}/img/1-raspberry-pi-connection.jpg)
 

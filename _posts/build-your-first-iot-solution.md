@@ -67,6 +67,7 @@ Create a headless UWP application that can be deployed to Raspberry Pi. Headless
 
 Install Windows IoT project templates from visual studio market place. Launch Visual Studio | Go to Tools | Extensions and Updates | Search for “Windows IoT core project templates” and click Install.
 
+![loading image...]({{site.baseurl}}/img/1/add-windows-iot-templates.jpg)
 
 
 

@@ -44,3 +44,6 @@ Go to [Azure Portal](https://portal.azure.com/) | Create a resource | Internet o
 **IoT Hub Name** 	– Enter “electricity-usage-iot-hub” or choose the name you like     
 
 ![loading image...]({{site.baseurl}}/img/1/create-iot-hub-subscription.jpg)
+
+Click Next | Select “F1: Free Tier” under Pricing and scale tier and leave rest as it is | Review and Create.    
+

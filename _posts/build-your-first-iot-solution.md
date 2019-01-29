@@ -55,7 +55,7 @@ Select All resources | electricity-usage-iot-hub resource | IoT devices | Click 
 
 ![loading image...]({{site.baseurl}}/img/1/add-iot-hub-device.jpg)
 
-Device Id – “electricity-usage-simulated-sensor” or choose the name you like   
+**Device Id** – “electricity-usage-simulated-sensor” or choose the name you like   
 
 And leave rest of the options as it is. Click Save.    
 

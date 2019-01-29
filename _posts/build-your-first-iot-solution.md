@@ -87,7 +87,7 @@ In this example we will use a simulated electricity usage provider to collect el
 
 Replace StartupTask.cs file with the below code.
 
-```cs
+```csharp
 using Microsoft.Azure.Devices.Client;
 using Newtonsoft.Json;
 using System;

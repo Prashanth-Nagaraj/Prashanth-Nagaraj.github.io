@@ -43,4 +43,4 @@ Go to [Azure Portal](https://portal.azure.com/) | Create a resource | Internet o
 **Region** 			– Choose nearest region to you    
 **IoT Hub Name** 	– Enter “electricity-usage-iot-hub” or choose the name you like     
 
-
+![loading image...]({{site.baseurl}}/img/1/1-create-iot-hub.gif)

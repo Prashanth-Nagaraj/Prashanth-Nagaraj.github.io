@@ -75,7 +75,7 @@ Enter “ElectricityUsageMonitor” for name and click OK.
 
 ![loading image...]({{site.baseurl}}/img/1/create-uwp-application.jpg)
 
-
+You will get a pop up to select Windows Target Version and Minimum version. Select the defaults and click OK.
 
 
 

@@ -96,8 +96,6 @@ using System.Text;
 using System.Threading.Tasks;
 using Windows.ApplicationModel.Background;
 
-// The Background Application template is documented at http://go.microsoft.com/fwlink/?LinkID=533884&clcid=0x409
-
 namespace ElectricityUsageMonitor
 {
     public sealed partial class StartupTask : IBackgroundTask
@@ -139,9 +137,6 @@ namespace ElectricityUsageMonitor
                 var electricityUsageJson = JsonConvert.SerializeObject(electricityUsageData);
                 using (var electricityUsage = new Message(Encoding.UTF8.GetBytes(electricityUsageJson)))
                 {
-                    //On Azure IoT hub to route the messages based on body parameters
-                    //content encoding and content type must be specified. ContentEncoding should be utf-8/utf-16/utf-32
-                    // and content type must be application/json
                     electricityUsage.ContentEncoding = "utf-8";
                     electricityUsage.ContentType = "application/json";
 

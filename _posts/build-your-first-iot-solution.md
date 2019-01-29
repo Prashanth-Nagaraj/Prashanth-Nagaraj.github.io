@@ -36,4 +36,4 @@ IoT Hub is a managed service that acts as a central message hub for bi-direction
 
 Go to [Azure Portal](https://portal.azure.com/) | Create a resource | Internet of Things | IoT Hub.
 
-![loading image...]({{site.baseurl}}/img/1/1-raspberry-pi-connection.jpg)
+![loading image...]({{site.baseurl}}/img/1/1-create-iot-hub.gif)

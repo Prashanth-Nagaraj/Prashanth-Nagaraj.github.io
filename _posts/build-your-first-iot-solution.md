@@ -49,3 +49,7 @@ Click Next | Select “F1: Free Tier” under Pricing and scale tier and leave r
 
 ![loading image...]({{site.baseurl}}/img/1/create-iot-hub-size-and-scale.jpg)
 
+Next, add an IoT device to your IoT Hub application. IoT device is a device identity registry in IoT Hub. Ideally every physical IoT device will have a new IoT device registry added in IoT Hub. IoT device on IoT Hub can be perceived as a logical entity for a physical IoT device. The data exchange between IoT Hub and Physical IoT device happens through this device registry endpoints.   
+
+Select All resources | electricity-usage-iot-hub resource | IoT devices | Click Add
+

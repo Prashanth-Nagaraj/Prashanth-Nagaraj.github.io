@@ -63,7 +63,7 @@ After device is created, you can see the list of devices you created in ‘IoT D
 
 # **Create UWP application**
 
-
+Create a headless UWP application that can be deployed to Raspberry Pi. Headless applications are the background applications that doesn’t have any UI. The applications which has UI are called Headed application. An IoT device running Windows IoT Core can have any number of headless applications, but it can have only one headed application enabled.
 
 
 

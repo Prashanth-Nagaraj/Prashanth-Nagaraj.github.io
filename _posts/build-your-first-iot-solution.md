@@ -96,8 +96,6 @@ using System.Text;
 using System.Threading.Tasks;
 using Windows.ApplicationModel.Background;
 
-// The Background Application template is documented at http://go.microsoft.com/fwlink/?LinkID=533884&clcid=0x409
-
 namespace ElectricityUsageMonitor
 {
     public sealed partial class StartupTask : IBackgroundTask

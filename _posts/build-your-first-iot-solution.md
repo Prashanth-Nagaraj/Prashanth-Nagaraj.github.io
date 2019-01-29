@@ -81,6 +81,8 @@ You will get a pop up to select Windows Target Version and Minimum version. Sele
 
 You need Microsoft.Devices.Azure.Client NuGet package to interact with Azure IoT Hub. So, Install this package from the NuGet gallery.
 
+# **Let’s look at Some Code**
+
 
 
 

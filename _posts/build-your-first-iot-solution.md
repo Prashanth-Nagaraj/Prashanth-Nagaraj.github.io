@@ -101,7 +101,7 @@ namespace ElectricityUsageMonitor
     public sealed partial class StartupTask : IBackgroundTask
     {
         private BackgroundTaskDeferral _deferral;
-        private IElectricityUsageProvider _electricityUsageProvider;
+        private SimulatedElectricityUsageProvider _electricityUsageProvider;
         private DeviceClient _deviceClient;
         private const string connectionString = “<replace>”;
         private const int maxReadings = 5;

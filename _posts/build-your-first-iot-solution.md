@@ -55,6 +55,11 @@ Select All resources | electricity-usage-iot-hub resource | IoT devices | Click 
 
 ![loading image...]({{site.baseurl}}/img/1/add-iot-hub-device.jpg)
 
+Device Id – “electricity-usage-simulated-sensor” or choose the name you like   
+
+And leave rest of the options as it is. Click Save.    
+
+After device is created, you can see the list of devices you created in ‘IoT Devices’ section. Click on the device which you just created and copy the Connection string (primary key) and store it. You need this later to connect from code to Azure IoT Hub.
 
 
 

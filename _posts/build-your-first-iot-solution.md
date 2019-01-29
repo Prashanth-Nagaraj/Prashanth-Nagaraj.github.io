@@ -36,7 +36,7 @@ IoT Hub is a managed service that acts as a central message hub for bi-direction
 
 Go to [Azure Portal](https://portal.azure.com/) | Create a resource | Internet of Things | IoT Hub.
 
-![loading image...]({{site.baseurl}}/img/1/1-create-iot-hub.gif)
+![loading image...]({{site.baseurl}}/img/1/create-iot-hub.gif)
 
 **Subscription** 	- Choose your subscription    
 **Resource Group** 	– Create a new resource group and name it “electricity-usage-resource-group”    

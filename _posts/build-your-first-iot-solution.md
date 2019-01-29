@@ -65,7 +65,7 @@ After device is created, you can see the list of devices you created in ‘IoT D
 
 Create a headless UWP application that can be deployed to Raspberry Pi. Headless applications are the background applications that doesn’t have any UI. The applications which has UI are called Headed application. An IoT device running Windows IoT Core can have any number of headless applications, but it can have only one headed application enabled.
 
-Install Windows IoT project templates from visual studio market place. Launch Visual Studio |Go to Tools| Extensions and Updates | Search for “Windows IoT core project templates” and click Install.
+Install Windows IoT project templates from visual studio market place. Launch Visual Studio | Go to Tools| Extensions and Updates | Search for “Windows IoT core project templates” and click Install.
 
 
 

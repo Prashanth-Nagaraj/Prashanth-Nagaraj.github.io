@@ -96,14 +96,16 @@ using System.Text;
 using System.Threading.Tasks;
 using Windows.ApplicationModel.Background;
 
+// The Background Application template is documented at http://go.microsoft.com/fwlink/?LinkID=533884&clcid=0x409
+
 namespace ElectricityUsageMonitor
 {
     public sealed partial class StartupTask : IBackgroundTask
     {
         private BackgroundTaskDeferral _deferral;
-        private SimulatedElectricityUsageProvider _electricityUsageProvider;
+        private IElectricityUsageProvider _electricityUsageProvider;
         private DeviceClient _deviceClient;
-        private const string connectionString = "<replace>";
+        private const string connectionString = “<replace>”;
         private const int maxReadings = 5;
 
         public void Run(IBackgroundTaskInstance taskInstance)

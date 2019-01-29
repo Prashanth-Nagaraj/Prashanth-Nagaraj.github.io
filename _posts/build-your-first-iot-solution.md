@@ -73,6 +73,7 @@ Go to File | New | Project | Select Background Application (IoT) under Windows I
 
 Enter “ElectricityUsageMonitor” for name and click OK.    
 
+![loading image...]({{site.baseurl}}/img/1/create-uwp-application.jpg)
 
 
 

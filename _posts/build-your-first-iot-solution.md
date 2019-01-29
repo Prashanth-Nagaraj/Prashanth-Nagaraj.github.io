@@ -28,10 +28,19 @@ Follow the steps given [here](https://docs.microsoft.com/en-us/windows/iot-core/
 - Once the OS is flashed on to SD card insert this SD card in to your Raspberry PI.
 - Connect your Raspberry Pi to the network. Make sure your laptop and raspberry pi are connected to same network.
 
-![Raspberry Pi Connection]({{site.baseurl}}/img/1-raspberry-pi-connection.jpg)
+![loading image...]({{site.baseurl}}/img/1/raspberry-pi-connection.jpg)
 
 # **Create Azure IoT Hub**
 
 IoT Hub is a managed service that acts as a central message hub for bi-directional communication between your IoT application and the devices it manages.  
 
 Go to [Azure Portal](https://portal.azure.com/) | Create a resource | Internet of Things | IoT Hub.
+
+![loading image...]({{site.baseurl}}/img/1/create-iot-hub.gif)
+
+**Subscription** 	- Choose your subscription    
+**Resource Group** 	– Create a new resource group and name it “electricity-usage-resource-group”    
+**Region** 			– Choose nearest region to you    
+**IoT Hub Name** 	– Enter “electricity-usage-iot-hub” or choose the name you like     
+
+![loading image...]({{site.baseurl}}/img/1/create-iot-hub-subscription.jpg)

@@ -77,6 +77,9 @@ Enter “ElectricityUsageMonitor” for name and click OK.
 
 You will get a pop up to select Windows Target Version and Minimum version. Select the defaults and click OK.
 
+![loading image...]({{site.baseurl}}/img/1/select-windows-versions.jpg)
+
+
 
 
 

@@ -35,3 +35,5 @@ Follow the steps given [here](https://docs.microsoft.com/en-us/windows/iot-core/
 IoT Hub is a managed service that acts as a central message hub for bi-directional communication between your IoT application and the devices it manages.  
 
 Go to [Azure Portal](https://portal.azure.com/) | Create a resource | Internet of Things | IoT Hub.
+
+![loading image...]({{site.baseurl}}/img/1/1-raspberry-pi-connection.jpg)

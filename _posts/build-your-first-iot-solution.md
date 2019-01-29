@@ -53,3 +53,5 @@ Next, add an IoT device to your IoT Hub application. IoT device is a device iden
 
 Select All resources | electricity-usage-iot-hub resource | IoT devices | Click Add
 
+
+

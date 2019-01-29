@@ -28,7 +28,7 @@ Follow the steps given [here](https://docs.microsoft.com/en-us/windows/iot-core/
 - Once the OS is flashed on to SD card insert this SD card in to your Raspberry PI.
 - Connect your Raspberry Pi to the network. Make sure your laptop and raspberry pi are connected to same network.
 
-![loading image...]({{site.baseurl}}/img/1/1-raspberry-pi-connection.jpg)
+![loading image...]({{site.baseurl}}/img/1/raspberry-pi-connection.jpg)
 
 # **Create Azure IoT Hub**
 

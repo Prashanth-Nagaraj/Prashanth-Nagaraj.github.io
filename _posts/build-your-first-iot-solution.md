@@ -150,7 +150,6 @@ namespace ElectricityUsageMonitor
         }
     }
 }
-
 ```
 
 Create a new class and name it SimulatedElectricityUsageProvider.cs. Replace the file with the below contents.

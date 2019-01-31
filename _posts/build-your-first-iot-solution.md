@@ -1,4 +1,5 @@
 ---
+layout: post
 published: true
 title: Build your first IoT solution
 subtitle: 'with Azure IoT Hub, Windows Core IoT & Raspberry Pi'
@@ -8,7 +9,7 @@ tags:
   - RaspberryPi
   - 'C#'
   - Windows
-layout: post
+date: '2019-01-31'
 ---
 IoT (Internet of Things) is a rapidly growing technology that can bring significant changes to modern life. Since its invention, the single board computers such as Raspberry Pi has been an integral part of IoT solutions.   
 

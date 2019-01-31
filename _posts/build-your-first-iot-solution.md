@@ -279,7 +279,10 @@ namespace ElectricityUsageReader
 }
 ```
 
-Replace the connection string with your Azure IoT Hub connection string from Azure Portal. This is not the device’s connection string which we used earlier. To get the Azure IoT Hub connection string, Go to Azure IoT Hub resource in azure portal | Shared access policy | click on iothubowner policy | use connection string – primary key value
+Replace the connection string with your Azure IoT Hub connection string from Azure Portal. This is not the device’s connection string which we used earlier.   
+
+To get the Azure IoT Hub connection string, Go to Azure IoT Hub resource in azure portal | Shared access policy | click on iothubowner policy | use connection string – primary key value.   
+
 Compile and run this program, this will start listening for the message received at IoT Hub. Keep this program running and go to Windows Device Portal and start the application on Raspberry Pi. You should be able to see messages received at IoT Hub on your console application.
 
 

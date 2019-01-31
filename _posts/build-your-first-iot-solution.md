@@ -156,4 +156,17 @@ namespace ElectricityUsageMonitor
 Create a new class and name it SimulatedElectricityUsageProvider.cs. Replace the file with the below contents.
 
 ```csharp
+namespace ElectricityUsageMonitor
+{
+    internal class SimulatedElectricityUsageProvider
+    {
+        private double baseUsage = 10;
+
+        public double GetCurrentUsage()
+        {
+            baseUsage = baseUsage += 2;
+            return baseUsage;
+        }
+    }
+}
 ```

@@ -1,6 +1,6 @@
 ---
 published: true
-title: Build your first IoT Solution
+title: Build your first IoT solution
 subtitle: 'with Azure IoT Hub, Windows Core IoT & Raspberry Pi'
 tags:
   - Azure
@@ -302,12 +302,6 @@ Azure IoT Hub documentation can be found at [https://docs.microsoft.com/en-au/az
 You can explore Azure IoT Central which is a fully managed SaaS offering of IoT from Microsoft at [https://docs.microsoft.com/en-au/azure/iot-central/ ](https://docs.microsoft.com/en-au/azure/iot-central/) 
 
 Happy Learning.
-
-
-
-
-
-
 
 
 

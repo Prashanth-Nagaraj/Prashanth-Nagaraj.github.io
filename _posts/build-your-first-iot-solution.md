@@ -187,5 +187,7 @@ We will use SendEventAsync method of _deviceClient object to send data to client
 
 # **Deploying application to Raspberry Pi**
 
+Make sure you have connected the Raspberry Pi to the same network of your computer.    
+
 
 

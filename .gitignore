@@ -7,3 +7,7 @@ _site
 .DS_Store
 Thumbs.db
 ehthumbs.db
+.vs/ProjectSettings.json
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vs/prashanth-nagaraj.github.io/v15/.suo

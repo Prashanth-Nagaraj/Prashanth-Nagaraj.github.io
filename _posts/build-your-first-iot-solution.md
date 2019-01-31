@@ -169,3 +169,5 @@ namespace ElectricityUsageMonitor
     }
 }
 ```
+Run method of StartupTask class is the first method that gets called soon after the application starts.
+I have added a little bit of code to initialize SimulatedElectricityUsageProvider and DeviceClient objects. SimulatedElectricityUsageProvider class will provide the electricity usage data (like electricity meter readings).    

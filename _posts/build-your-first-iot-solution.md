@@ -289,7 +289,7 @@ Compile and run this program, this will start listening for the message received
 
 You can find plenty of Windows IoT Core samples at [https://github.com/Microsoft/Windows-iotcore-samples](https://github.com/Microsoft/Windows-iotcore-samples). You can find Azure specific and also other IoT devices specific examples here.    
 
-Azure IoT Hub documentation can be found at https://docs.microsoft.com/en-au/azure/iot-hub/
+Azure IoT Hub documentation can be found at [https://docs.microsoft.com/en-au/azure/iot-hub/](https://docs.microsoft.com/en-au/azure/iot-hub/)
 You can explore Azure IoT Central which is a fully managed SaaS offering of IoT from Microsoft at https://docs.microsoft.com/en-au/azure/iot-central/   
 
 Happy Learning.

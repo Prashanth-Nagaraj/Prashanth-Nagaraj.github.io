@@ -193,6 +193,8 @@ Open Windows Core IoT Dashboard and go to My devices. If you have connected Rasp
 
 ![loading image...]({{site.baseurl}}/img/1/iot-core-dashboard.jpg)
 
+Deploying UWP application from Visual studio to Raspberry Pi is a straight forward process. With the application open in visual studio, set the Architecture to ARM in the toolbar dropdown and click on the Local Machine drop down and select Remote Machine.    
+
 
 
 

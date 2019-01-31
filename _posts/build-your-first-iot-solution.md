@@ -209,9 +209,10 @@ Now the application starts sending ElectricUsageData to Azure IoT Device and sto
 
 # **Processing data on cloud**
 
-Sending the data to cloud is only meaningful if we do something useful with the data. There are many ways you can process data that is sent to Azure IoT Hub. You can connect it to other azure services like Service Bus Queue, Blob Storage, Power BI etc.
-You can imagine some real-world scenarios like triggering an alert if the electricity usage exceeds a limit etc. But that’s out of scope of this blog.
-However, we shall make sure the data is successfully received in the cloud. Let’s retrieve the messages sent to cloud in a .NetCore console application.
+Sending the data to cloud is only meaningful if we do something useful with the data. There are many ways you can process data that is sent to Azure IoT Hub. You can connect it to other azure services like Service Bus Queue, Blob Storage, Power BI etc.    
+
+You can imagine some real-world scenarios like triggering an alert if the electricity usage exceeds a limit etc. But that’s out of scope of this blog.However, we shall make sure the data is successfully received in the cloud. Let’s retrieve the messages sent to cloud in a .NetCore console application.   
+
 Create a .NetCore console application in Visual Studio. Add the WindowsAzure.ServiceBus library from the NuGet gallery and replace the generated Program.cs with the following code:
 
 

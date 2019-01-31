@@ -205,6 +205,8 @@ Go to Build menu in Visual Studio and click Deploy Solution. This will deploy th
 
 ![loading image...]({{site.baseurl}}/img/1/app-manager.jpg)
 
+Now the application starts sending ElectricUsageData to Azure IoT Device and stops. If you want to restart the application click on Actions dropdown and select start.   
+
 
 
 

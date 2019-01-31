@@ -285,7 +285,7 @@ To get the Azure IoT Hub connection string, Go to Azure IoT Hub resource in azur
 
 Compile and run this program, this will start listening for the message received at IoT Hub. Keep this program running and go to Windows Device Portal and start the application on Raspberry Pi. You should be able to see messages received at IoT Hub on your console application.
 
-# **Processing data on cloud**
+# **Next Steps**
 
 
 

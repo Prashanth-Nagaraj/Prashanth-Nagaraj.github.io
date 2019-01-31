@@ -203,8 +203,7 @@ Select your device connection in Remote Connections dialog.
 
 Go to Build menu in Visual Studio and click Deploy Solution. This will deploy the application to Raspberry Pi. After the deployment is completed go to Windows Device Portal and click on Apps manager. This is similar to Task Manager in Windows. Here you will see all the applications that are running in the device.   
 
-![loading image...]({{site.baseurl}}/img/1/app-manager
-.jpg)
+![loading image...]({{site.baseurl}}/img/1/app-manager.jpg)
 
 
 

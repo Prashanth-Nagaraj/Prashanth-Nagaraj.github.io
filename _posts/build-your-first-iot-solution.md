@@ -194,3 +194,5 @@ Open Windows Core IoT Dashboard and go to My devices. If you have connected Rasp
 ![loading image...]({{site.baseurl}}/img/1/iot-core-dashboard.jpg)
 
 
+
+

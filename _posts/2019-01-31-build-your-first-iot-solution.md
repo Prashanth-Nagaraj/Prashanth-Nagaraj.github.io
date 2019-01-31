@@ -44,7 +44,7 @@ Follow the steps given [here](https://docs.microsoft.com/en-us/windows/iot-core/
 
 IoT Hub is a managed service that acts as a central message hub for bi-directional communication between your IoT application and the devices it manages.  
 
-Go to [Azure Portal](https://portal.azure.com/) | Create a resource | Internet of Things | IoT Hub.
+Go to [Azure Portal](https://portal.azure.com/) \| Create a resource \| Internet of Things \| IoT Hub.
 
 ![loading image...]({{site.baseurl}}/img/1/create-iot-hub.gif)
 
@@ -55,13 +55,13 @@ Go to [Azure Portal](https://portal.azure.com/) | Create a resource | Internet o
 
 ![loading image...]({{site.baseurl}}/img/1/create-iot-hub-subscription.jpg)
 
-Click Next | Select “F1: Free Tier” under Pricing and scale tier and leave rest as it is | Review and Create.    
+Click Next \| Select “F1: Free Tier” under Pricing and scale tier and leave rest as it is \| Review and Create.    
 
 ![loading image...]({{site.baseurl}}/img/1/create-iot-hub-size-and-scale.jpg)
 
 Next, add an IoT device to your IoT Hub application. IoT device is a device identity registry in IoT Hub. Ideally every physical IoT device will have a new IoT device registry added in IoT Hub. IoT device on IoT Hub can be perceived as a logical entity for a physical IoT device. The data exchange between IoT Hub and Physical IoT device happens through this device registry endpoints.   
 
-Select All resources | electricity-usage-iot-hub resource | IoT devices | Click Add
+Select All resources \| electricity-usage-iot-hub resource \| IoT devices \| Click Add
 
 ![loading image...]({{site.baseurl}}/img/1/add-iot-hub-device.jpg)
 
@@ -75,11 +75,11 @@ After device is created, you can see the list of devices you created in **IoT De
 
 Create a headless UWP application that can be deployed to Raspberry Pi. Headless applications are the background applications that doesn’t have any UI. The applications which has UI are called Headed application. An IoT device running Windows IoT Core can have any number of headless applications, but it can have only one headed application enabled.
 
-Install Windows IoT project templates from visual studio market place. Launch Visual Studio | Go to Tools | Extensions and Updates | Search for “Windows IoT core project templates” and click Install.
+Install Windows IoT project templates from visual studio market place. Launch Visual Studio \| Go to Tools \| Extensions and Updates \| Search for “Windows IoT core project templates” and click Install.
 
 ![loading image...]({{site.baseurl}}/img/1/add-windows-iot-templates.jpg)
 
-Go to File | New | Project | Select Background Application (IoT) under Windows IoT Core template.    
+Go to File \| New \| Project \| Select Background Application (IoT) under Windows IoT Core template.    
 
 Enter “ElectricityUsageMonitor” for name and click OK.    
 
@@ -291,7 +291,7 @@ namespace ElectricityUsageReader
 
 Replace the connection string with your Azure IoT Hub connection string from Azure Portal. This is not the device’s connection string which we used earlier.   
 
-To get the Azure IoT Hub connection string, Go to Azure IoT Hub resource in azure portal | Shared access policy | click on iothubowner policy | use connection string – primary key value.   
+To get the Azure IoT Hub connection string, Go to Azure IoT Hub resource in azure portal \| Shared access policy \| click on iothubowner policy \| use connection string – primary key value.   
 
 Compile and run this program, this will start listening for the message received at IoT Hub. Keep this program running and go to Windows Device Portal and start the application on Raspberry Pi. You should be able to see messages received at IoT Hub on your console application.
 

@@ -175,5 +175,5 @@ I have added a little bit of code to initialize SimulatedElectricityUsageProvide
 
 DeviceClient is a class from Microsoft.Devices.Azure.Client library contains methods that can send message from device and receive from a cloud service. Replace the ConnectionString value with the IoT Hub device’s connection string which you copied earlier.    
 
-
+Background applications will end when the Run method is executed completely unless you take a deferral.
 

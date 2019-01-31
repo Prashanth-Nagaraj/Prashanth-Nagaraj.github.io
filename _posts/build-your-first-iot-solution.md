@@ -214,3 +214,5 @@ Now the application starts sending ElectricUsageData to Azure IoT Device and sto
 
 
 
+
+

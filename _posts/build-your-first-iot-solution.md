@@ -191,6 +191,6 @@ Make sure you have connected the Raspberry Pi to the same network of your comput
 
 Open Windows Core IoT Dashboard and go to My devices. If you have connected Raspberry Pi to the network correctly, you should see your device there. Right Click on the device and click on Open in Device Portal. This will bring up Windows Device Portal. This is one stop shop to manage your device.    
 
-![loading image...]({{site.baseurl}}/img/1/select-windows-versions.jpg)
+![loading image...]({{site.baseurl}}/img/1/iot-core-dashboard.jpg)
 
 

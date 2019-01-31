@@ -182,4 +182,6 @@ Background applications will end when the Run method is executed completely unle
 Once the deferral is taken, the background application will continue until the Complete method of deferral object is called.
 
     _deferral.Complete();
+    
+
 

@@ -187,3 +187,5 @@ We will use SendEventAsync method of _deviceClient object to send data to client
 
 # **Deploying application to Raspberry Pi**
 
+
+

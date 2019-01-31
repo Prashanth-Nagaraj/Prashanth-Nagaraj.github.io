@@ -183,5 +183,5 @@ Once the deferral is taken, the background application will continue until the C
 
     _deferral.Complete();
     
-
+We will use SendEventAsync method of _deviceClient object to send data to client. To send data to IoT Hub we need to construct Message that contains data. Message object can be initialized by passing the data as byte array or Stream. Here we are passing the byte array of the data.
 

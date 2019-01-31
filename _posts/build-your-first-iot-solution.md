@@ -177,3 +177,5 @@ DeviceClient is a class from Microsoft.Devices.Azure.Client library contains met
 
 Background applications will end when the Run method is executed completely unless you take a deferral.
 
+
+

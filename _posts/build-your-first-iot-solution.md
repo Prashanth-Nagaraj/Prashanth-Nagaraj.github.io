@@ -170,6 +170,8 @@ namespace ElectricityUsageMonitor
 }
 ```
 Run method of StartupTask class is the first method that gets called soon after the application starts.
+
 I have added a little bit of code to initialize SimulatedElectricityUsageProvider and DeviceClient objects. SimulatedElectricityUsageProvider class will provide the electricity usage data (like electricity meter readings).    
 
 DeviceClient is a class from Microsoft.Devices.Azure.Client library contains methods that can send message from device and receive from a cloud service. Replace the ConnectionString value with the IoT Hub device’s connection string which you copied earlier.    
+

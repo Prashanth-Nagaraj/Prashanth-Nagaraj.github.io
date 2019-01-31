@@ -302,6 +302,3 @@ Azure IoT Hub documentation can be found at [https://docs.microsoft.com/en-au/az
 You can explore Azure IoT Central which is a fully managed SaaS offering of IoT from Microsoft at [https://docs.microsoft.com/en-au/azure/iot-central/ ](https://docs.microsoft.com/en-au/azure/iot-central/) 
 
 Happy Learning.
-
-
-

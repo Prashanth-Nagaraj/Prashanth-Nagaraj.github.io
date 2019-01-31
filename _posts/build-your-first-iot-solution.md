@@ -199,6 +199,7 @@ Deploying UWP application from Visual studio to Raspberry Pi is a straight forwa
 
 Select your device connection in Remote Connections dialog.   
 
+![loading image...]({{site.baseurl}}/img/1/select-architecture.jpg)
 
 
 

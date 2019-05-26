@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Microservices with Azure Service Fabric
-subtitle: ...An Overview
+subtitle: An Overview...
 date: '2019-05-27'
 tags:
   - Azure
@@ -121,16 +121,3 @@ Containers are especially useful to run long running applications or the applica
 With the traction of Azure Kubernetes Service for container orchestration, I see Azure Service Fabric as a good microservices platform than a container orchestrator. 
 
 In my opinion, although some cons mentioned above bring some pain to the developers, some of the outright features discussed above makes it a go to platform for microservices development specially to lift, shift legacy applications and run it in a microservices architecture.
-
-
-
-
-
-
-
-
-
-
-
-
-
